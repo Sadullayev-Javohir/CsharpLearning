@@ -12,3 +12,4 @@
 /home/fearless/Desktop/Csharplearning/3_kun/obj/Debug/net8.0/3_kun.pdb
 /home/fearless/Desktop/Csharplearning/3_kun/obj/Debug/net8.0/3_kun.genruntimeconfig.cache
 /home/fearless/Desktop/Csharplearning/3_kun/obj/Debug/net8.0/ref/3_kun.dll
+/home/fearless/Desktop/Csharplearning/3_kun/obj/Debug/net8.0/3_kun.sourcelink.json
