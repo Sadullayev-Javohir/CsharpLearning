@@ -1,0 +1,15 @@
+/home/fearless/Desktop/Csharplearning/10_kun/bin/Debug/net8.0/10_kun
+/home/fearless/Desktop/Csharplearning/10_kun/bin/Debug/net8.0/10_kun.deps.json
+/home/fearless/Desktop/Csharplearning/10_kun/bin/Debug/net8.0/10_kun.runtimeconfig.json
+/home/fearless/Desktop/Csharplearning/10_kun/bin/Debug/net8.0/10_kun.dll
+/home/fearless/Desktop/Csharplearning/10_kun/bin/Debug/net8.0/10_kun.pdb
+/home/fearless/Desktop/Csharplearning/10_kun/obj/Debug/net8.0/10_kun.GeneratedMSBuildEditorConfig.editorconfig
+/home/fearless/Desktop/Csharplearning/10_kun/obj/Debug/net8.0/10_kun.AssemblyInfoInputs.cache
+/home/fearless/Desktop/Csharplearning/10_kun/obj/Debug/net8.0/10_kun.AssemblyInfo.cs
+/home/fearless/Desktop/Csharplearning/10_kun/obj/Debug/net8.0/10_kun.csproj.CoreCompileInputs.cache
+/home/fearless/Desktop/Csharplearning/10_kun/obj/Debug/net8.0/10_kun.sourcelink.json
+/home/fearless/Desktop/Csharplearning/10_kun/obj/Debug/net8.0/10_kun.dll
+/home/fearless/Desktop/Csharplearning/10_kun/obj/Debug/net8.0/refint/10_kun.dll
+/home/fearless/Desktop/Csharplearning/10_kun/obj/Debug/net8.0/10_kun.pdb
+/home/fearless/Desktop/Csharplearning/10_kun/obj/Debug/net8.0/10_kun.genruntimeconfig.cache
+/home/fearless/Desktop/Csharplearning/10_kun/obj/Debug/net8.0/ref/10_kun.dll
