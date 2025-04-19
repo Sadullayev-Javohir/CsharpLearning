@@ -1,0 +1,15 @@
+/home/fearless/Desktop/Csharplearning/recursive/bin/Debug/net8.0/recursive
+/home/fearless/Desktop/Csharplearning/recursive/bin/Debug/net8.0/recursive.deps.json
+/home/fearless/Desktop/Csharplearning/recursive/bin/Debug/net8.0/recursive.runtimeconfig.json
+/home/fearless/Desktop/Csharplearning/recursive/bin/Debug/net8.0/recursive.dll
+/home/fearless/Desktop/Csharplearning/recursive/bin/Debug/net8.0/recursive.pdb
+/home/fearless/Desktop/Csharplearning/recursive/obj/Debug/net8.0/recursive.GeneratedMSBuildEditorConfig.editorconfig
+/home/fearless/Desktop/Csharplearning/recursive/obj/Debug/net8.0/recursive.AssemblyInfoInputs.cache
+/home/fearless/Desktop/Csharplearning/recursive/obj/Debug/net8.0/recursive.AssemblyInfo.cs
+/home/fearless/Desktop/Csharplearning/recursive/obj/Debug/net8.0/recursive.csproj.CoreCompileInputs.cache
+/home/fearless/Desktop/Csharplearning/recursive/obj/Debug/net8.0/recursive.sourcelink.json
+/home/fearless/Desktop/Csharplearning/recursive/obj/Debug/net8.0/recursive.dll
+/home/fearless/Desktop/Csharplearning/recursive/obj/Debug/net8.0/refint/recursive.dll
+/home/fearless/Desktop/Csharplearning/recursive/obj/Debug/net8.0/recursive.pdb
+/home/fearless/Desktop/Csharplearning/recursive/obj/Debug/net8.0/recursive.genruntimeconfig.cache
+/home/fearless/Desktop/Csharplearning/recursive/obj/Debug/net8.0/ref/recursive.dll
