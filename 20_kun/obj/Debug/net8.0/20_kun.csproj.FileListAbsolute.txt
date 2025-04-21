@@ -1,0 +1,15 @@
+/home/javohir/Desktop/CsharpLearning/20_kun/bin/Debug/net8.0/20_kun
+/home/javohir/Desktop/CsharpLearning/20_kun/bin/Debug/net8.0/20_kun.deps.json
+/home/javohir/Desktop/CsharpLearning/20_kun/bin/Debug/net8.0/20_kun.runtimeconfig.json
+/home/javohir/Desktop/CsharpLearning/20_kun/bin/Debug/net8.0/20_kun.dll
+/home/javohir/Desktop/CsharpLearning/20_kun/bin/Debug/net8.0/20_kun.pdb
+/home/javohir/Desktop/CsharpLearning/20_kun/obj/Debug/net8.0/20_kun.GeneratedMSBuildEditorConfig.editorconfig
+/home/javohir/Desktop/CsharpLearning/20_kun/obj/Debug/net8.0/20_kun.AssemblyInfoInputs.cache
+/home/javohir/Desktop/CsharpLearning/20_kun/obj/Debug/net8.0/20_kun.AssemblyInfo.cs
+/home/javohir/Desktop/CsharpLearning/20_kun/obj/Debug/net8.0/20_kun.csproj.CoreCompileInputs.cache
+/home/javohir/Desktop/CsharpLearning/20_kun/obj/Debug/net8.0/20_kun.sourcelink.json
+/home/javohir/Desktop/CsharpLearning/20_kun/obj/Debug/net8.0/20_kun.dll
+/home/javohir/Desktop/CsharpLearning/20_kun/obj/Debug/net8.0/refint/20_kun.dll
+/home/javohir/Desktop/CsharpLearning/20_kun/obj/Debug/net8.0/20_kun.pdb
+/home/javohir/Desktop/CsharpLearning/20_kun/obj/Debug/net8.0/20_kun.genruntimeconfig.cache
+/home/javohir/Desktop/CsharpLearning/20_kun/obj/Debug/net8.0/ref/20_kun.dll
