@@ -102,3 +102,161 @@
 // }
 
 
+// ✅ 5-misol: Phone klassi yaratiladi. Model va narxi kiritilib, ma'lumot chiqariladi
+
+// class Phone
+// {
+//   public string Model;
+//   public int Cost;
+
+//   public void Info()
+//   {
+//     Console.WriteLine($"Telefon modeli: {Model}, narxi: {Cost}");
+//   }
+// }
+
+// class Program
+// {
+//   static void Main(string[] args)
+//   {
+//     Phone phone1 = new Phone();
+//     phone1.Model = "Redmi";
+//     phone1.Cost = 250;
+//     phone1.Info(); 
+//   }
+// }
+
+
+// ✅ 6-misol: Laptop klassi yaratiladi. RAM va SSD qiymatlari kiritiladi.
+
+// class Laptop
+// {
+//   public int RAM;
+//   public int SSD;
+
+//   public void INFO()
+//   {
+//     Console.WriteLine($"Laptop ning rami : {RAM}, ssdi: {SSD}");
+//   }
+// }
+
+// class Program
+// {
+//   static void Main(string[] args)
+//   {
+//     Laptop laptop1 = new Laptop();
+//     laptop1.RAM = 32;
+//     laptop1.SSD = 512;
+//     laptop1.INFO();
+//   }
+// }
+
+
+
+// ✅ 7-misol: Dog klassi yaratiladi. Ism va yoshi kiritilib, "Hav-hav!" chiqaradi.
+
+// class Dog
+// {
+//   public string Name;
+//   public int age;
+
+//   public void DogInfo()
+//   {
+//     Console.WriteLine($"Kuchikning ismi: {Name}, yoshi: {age}");
+//   }
+//   public void HavHav()
+//   {
+//     Console.WriteLine("Hav-Hav");
+//   }
+// }
+
+
+// class Program
+// {
+//   public static void Main(string[] args)
+//   {
+//     Dog dog1 = new Dog();
+//     dog1.Name = "REX";
+//     dog1.age = 10;
+//     dog1.DogInfo();
+//     dog1.HavHav();
+//   }
+// }
+
+
+
+// ✅ 8-misol: Movie klassi yaratiladi. Nomi va yili kiritilib, chiqariladi.
+
+
+// class Movie
+// {
+//   public string name;
+//   public int year;
+
+//   public void movieInfo()
+//   {
+//     Console.WriteLine($"Kino nomi: {name}, yili: {year}");
+//   }
+// }
+
+// class Program
+// {
+//   static void Main(string[] args)
+//   {
+//     Movie movie1 = new Movie();
+//     movie1.name = "Harry Potter 1";
+//     movie1.year = 2001;
+//     movie1.movieInfo();
+//   }
+// }
+
+
+// ✅ 9-misol: BankAccount klassi yaratiladi. Foydalanuvchi balansi ko‘rsatiladi.
+
+// class Bank
+// {
+//   public string owner;
+//   public int balance;
+
+//   public void BalanceInfo()
+//   {
+//     Console.WriteLine($"Foydalanuvchi: {owner}, Balansi: {balance}");
+//   }
+// }
+
+// class Program
+// {
+//   static void Main(string[] args)
+//   {
+//     Bank bank1 = new Bank();
+//     bank1.owner = "Ali";
+//     bank1.balance = 225225;
+//     bank1.BalanceInfo();
+//   }
+// }
+
+
+// ✅ 10-misol: Weather klassi yaratiladi. Harorat va shahar nomi beriladi.
+
+
+// class Weather
+// {
+//   public double deegree;
+//   public string city;
+
+//   public void WeatherInfo()
+//   {
+//     Console.WriteLine($"Shahar nomi: {city}, Harorat: {deegree}");
+//   }
+// }
+
+// class Program
+// {
+//   static void Main(string[] args)
+//   {
+//     Weather weather1 = new Weather();
+//     weather1.deegree = 24.5;
+//     weather1.city = "Tashkent";
+//     weather1.WeatherInfo();
+//   }
+// }
