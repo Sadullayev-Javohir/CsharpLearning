@@ -161,3 +161,152 @@
 // int[] array = {1, 2, 3, 4};
 // List<int> sonlar = new List<int>(array);
 // sonlar.ForEach(n => Console.WriteLine(n));
+
+
+// 🔹 21. TrimExcess
+
+// Masala: Listda bir necha elementlar o‘chirilgan. Endi List xotirasini optimallashtirish uchun ortiqcha sig‘imni olib tashlang.
+
+// List<int> sonlar = new List<int>(){1, 2, 3, 4, 5, 6};
+// sonlar.RemoveRange(1, 2);
+// sonlar.ForEach(n => Console.WriteLine(n));
+
+
+// 🔹 22. GetRange
+
+// Masala: Listning 2-chi indeksidan boshlab 3 ta elementni alohida Listga ajrating.
+
+// List<int> sonlar = new List<int>(){12, 23, 35, 1, 6, 13, 8};
+// List<int> subList = sonlar.GetRange(2, 3);
+// subList.ForEach(n => Console.WriteLine(n));
+
+
+// 🔹 23. Exists
+
+// Masala: Listda 10 soni mavjud yoki yo‘qligini tekshiring.
+
+// List<int> sonlar = new List<int>(){1, 4, 7, 10};
+// bool bormi10 = sonlar.Exists(n => n == 10);
+// Console.WriteLine(bormi10);
+
+
+// 🔹 24. FindIndex
+
+// Masala: 10 dan katta bo‘lgan birinchi elementning indeksini toping.
+
+// List<int> sonlar = new List<int>(){1,2,3,4,5,11};
+// int index = sonlar.FindIndex(n => n > 10);
+// Console.WriteLine(index);
+
+
+// 🔹 25. Last va LastIndexOf
+
+// Masala: Listdagi oxirgi elementni va qiymati 10 bo‘lgan elementning oxirgi indeksini toping.
+
+
+// List<int> sonlar = new List<int>{10,20,10,30,};
+// int last = sonlar.Last();
+// int lastindex10 = sonlar.LastIndexOf(10);
+// Console.WriteLine(lastindex10);
+
+
+
+// 🔹 26. ToString (Listni string ko‘rinishga aylantirish)
+
+// Masala: Listdagi barcha sonlarni vergul bilan ajratilgan stringga aylantiring.
+
+// List<int> sonlar = new List<int>(){1,2,3,4,5};
+// string listString = string.Join(", ", sonlar);
+// Console.WriteLine(listString);
+
+
+// 🔹 27. Distinct
+
+// Masala: Listdagi takrorlanuvchi elementlarni olib tashlang.
+
+// List<int> numbers = new List<int>(){1,2,3,4,5,5};
+// List<int> distinctNumbers = numbers.Distinct().ToList();
+// // Console.WriteLine(string.Join(", ", distinctNumbers));
+// distinctNumbers.ForEach(n => Console.WriteLine(n));
+
+
+// 🔹 28. Union
+
+// Masala: Ikki Listni birlashtiring, takrorlanmas qiymatlarni oling.
+
+// List<int>a = new List<int> {10, 20};
+// List<int>b = new List<int> {20, 30};
+// List<int>combined = a.Union(b).ToList();
+// combined.ForEach(n => Console.WriteLine(n));
+
+
+// 🔹 29. Intersect
+
+// Masala: Ikkita Listdagi umumiy elementlarni toping.
+
+// List<int> sonlar1 = new List<int> {10, 20, 30};
+// List<int> sonlar2 = new List<int> {10, 20};
+
+// List<int> umumiyElem = sonlar1.Intersect(sonlar2).ToList();
+// umumiyElem.ForEach(n => Console.WriteLine(n));
+
+
+// 🔹 30. Except
+
+// Masala: Faqat birinchi Listda bor, ikkinchisida yo‘q bo‘lgan elementlarni toping.
+
+// List<int> first = new List<int>{10,20,30};
+// List<int> second = new List<int>{30};
+// List<int> diference = first.Except(second).ToList();
+// diference.ForEach(n => Console.WriteLine(n));
+
+
+
+// 🔹 31. RemoveAll
+
+// Masala: Listdan manfiy sonlarning barchasini olib tashlang.
+
+// List<int> sonlar = new List<int>(){1, -2, 0, -3, 3};
+// sonlar.RemoveAll(n => n < 0);
+// sonlar.ForEach(n => Console.WriteLine(n));
+
+// 🔹 32. Sort (Custom)
+
+// Masala: Listni kamayish tartibida saralang.
+
+// List<int> sonlar = new List<int>(){2, 1, 7, 3, 8, 4};
+// sonlar.Sort((x, y) => y.CompareTo(x));
+// sonlar.ForEach(n => Console.WriteLine(n));
+
+// 🔹 33. FindLast
+
+// Masala: 20 dan kichik bo‘lgan oxirgi elementni toping.
+
+// List<int> sonlar = new List<int>() {0, 10, 4, 20, 30,};
+// int lastFound = sonlar.FindLast(n => n < 20);
+// Console.WriteLine(lastFound);
+
+
+// 🔹 34. ToList (LINQ)
+
+// Masala: 10 dan katta bo‘lgan elementlarni yangi Listga ajrating.
+
+// List<int> numbers = new List<int>{5, 2, 6, 19, 62};
+// List<int> result = numbers.Where(n => n > 10).ToList();
+// result.ForEach(n => Console.WriteLine(n));
+
+
+// 🔹 35. CopyTo
+
+// Masala: Listni arrayga nusxalang.
+
+// List<int> sonlar = new List<int>(){1,2,3,4};
+// int[] array = new int[sonlar.Count];
+// sonlar.CopyTo(array);
+
+// foreach(var item in array) {
+//   Console.WriteLine(item);
+// }
+
+
+
