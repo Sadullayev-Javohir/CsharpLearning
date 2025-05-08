@@ -250,28 +250,28 @@
 // Shart:
 // Car klassi konstruktor orqali model va yilni qabul qilib, ShowInfo metodi bilan chiqarib bersin.
 
-// class Car
-// {
-//   string Model;
-//   int Year;
+class Car
+{
+  string Model;
+  int Year;
 
-//   public Car(string model, int year)
-//   {
-//     Model = model;
-//     Year = year;
-//   }
+  public Car(string model, int year)
+  {
+    Model = model;
+    Year = year;
+  }
 
-// public void ShowInfo()
-//   {
-//     Console.WriteLine($"Mashina modeli: {Model}, yili: {Year}");
-//   }
-// }
+public void ShowInfo()
+  {
+    Console.WriteLine($"Mashina modeli: {Model}, yili: {Year}");
+  }
+}
 
-// class Program
-// {
-//   static void Main(string[] args)
-//   {
-//     Car car1 = new Car("Mercedez Benz", 2025);
-//     car1.ShowInfo();
-//   }
-// }
+class Program
+{
+  static void Main(string[] args)
+  {
+    Car car1 = new Car("Mercedez Benz", 2025);
+    car1.ShowInfo();
+  }
+}
