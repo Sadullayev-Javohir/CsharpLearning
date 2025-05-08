@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/fearless/Desktop/Csharplearning/2_kun/Csharp.csproj": {}
+    "/home/kali/Desktop/CsharpLearning/2_kun/Csharp.csproj": {}
   },
   "projects": {
-    "/home/fearless/Desktop/Csharplearning/2_kun/Csharp.csproj": {
+    "/home/kali/Desktop/CsharpLearning/2_kun/Csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fearless/Desktop/Csharplearning/2_kun/Csharp.csproj",
+        "projectUniqueName": "/home/kali/Desktop/CsharpLearning/2_kun/Csharp.csproj",
         "projectName": "Csharp",
-        "projectPath": "/home/fearless/Desktop/Csharplearning/2_kun/Csharp.csproj",
-        "packagesPath": "/home/fearless/.nuget/packages/",
-        "outputPath": "/home/fearless/Desktop/Csharplearning/2_kun/obj/",
+        "projectPath": "/home/kali/Desktop/CsharpLearning/2_kun/Csharp.csproj",
+        "packagesPath": "/home/kali/.nuget/packages/",
+        "outputPath": "/home/kali/Desktop/CsharpLearning/2_kun/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/fearless/.nuget/NuGet/NuGet.Config"
+          "/home/kali/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
