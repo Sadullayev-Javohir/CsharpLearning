@@ -331,7 +331,7 @@
 //     Vehicle[] vehicles = { new Bike(), new Truck() };
 //     foreach (Vehicle vehicle in vehicles)
 //     {
-//       vehicle.Move();
+//       vehicle.Move()
 //     }
 //   }
 // }
