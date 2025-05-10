@@ -1,0 +1,11 @@
+1. File.WriteAllText()
+3. File.WriteAllLines()
+
+
+4. File.AppendAllLines()
+2. File.AppendAllText()
+
+5. StreamWriter
+6. BinaryWriter
+7. FileStream
+ 8. TextWriter
