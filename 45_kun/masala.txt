@@ -1,0 +1,163 @@
+using System;
+using System.Linq;
+using System.Collections.Generic;
+
+// ✅ 1.Filter Adults
+
+// Funksiya nomi: FilterAdults
+// Vazifa: Berilgan List<Person> ichidan yoshi 18 yoki undan katta bo‘lganlarni ajrating.
+
+// public class Person
+// {
+//   public string Name { get; set; }
+//   public int Age { get; set; }
+// }
+
+// class Solution
+// {
+//   static void Main()
+//   {
+//     List<Person> person = new List<Person>()
+//     {
+//       new Person {Name = "Ali", Age = 17},
+//       new Person {Name = "Vali", Age = 20},
+//       new Person {Name = "Sami", Age = 18}
+//     };
+
+//     var kattalar = person.Where(p => p.Age > 18).ToList();
+//     foreach (var n in kattalar)
+//     {
+//       Console.WriteLine($"Name: {n.Name}, Age: {n.Age}");
+//     }
+//   }
+// }
+
+
+✅ 1.Filter Adults
+
+Funksiya nomi: FilterAdults
+Vazifa: Berilgan List<Person> ichidan yoshi 18 yoki undan katta bo‘lganlarni ajrating.
+
+public class Person
+{
+  public string Name { get; set; }
+  public int Age { get; set; }
+}
+
+public List<Person> FilterAdults(List<Person> people)
+
+Input:
+
+[
+    { Name = "Ali", Age = 17 },
+    { Name = "Vali", Age = 20 },
+    { Name = "Sami", Age = 18 }
+]
+
+Output:
+
+[
+    { Name = "Vali", Age = 20 },
+    { Name = "Sami", Age = 18 }
+]
+
+✅ 2.Top 3 Scores
+
+Funksiya nomi: GetTopScores
+Vazifa: Ballar ro‘yxatidan eng yuqori 3 tasini toping.
+
+public List<int> GetTopScores(List<int> scores)
+
+Input: [45, 100, 67, 89, 78, 92]
+Output: [100, 92, 89]
+✅ 3.Find Emails with .com
+
+Funksiya nomi: FindComEmails
+Vazifa: Email ro‘yxatidan .com domenidagi email'larni ajrating.
+
+public List<string> FindComEmails(List<string> emails)
+
+Input: ["a@gmail.com", "b@yahoo.uz", "c@mail.com"]
+Output: ["a@gmail.com", "c@mail.com"]
+✅ 4.Group Students By Age
+
+Funksiya nomi: GroupByAge
+Vazifa: Studentlar ro‘yxatini yoshi bo‘yicha guruhlang (LINQ GroupBy).
+
+public Dictionary<int, List<string>> GroupByAge(List<Person> people)
+
+Input:
+
+[
+    { Name = "Ali", Age = 18 },
+    { Name = "Vali", Age = 20 },
+    { Name = "Sami", Age = 18 }
+]
+
+Output:
+
+{
+  18: ["Ali", "Sami"],
+    20: ["Vali"]
+}
+
+✅ 5.Sort Names by Length
+
+Funksiya nomi: SortByLength
+Vazifa: Ismlar ro‘yxatini uzunligiga qarab o‘sish tartibida tartiblang.
+
+public List<string> SortByLength(List<string> names)
+
+Input: ["Ali", "Vali", "Jamshid", "Omad"]
+Output: ["Ali", "Vali", "Omad", "Jamshid"]
+✅ 6.Select Student Full Names
+
+Funksiya nomi: GetFullNames
+Vazifa: FirstName va LastName maydonlarini birlashtirib FullName yarating.
+
+public class Student
+{
+  public string FirstName { get; set; }
+  public string LastName { get; set; }
+}
+
+public List<string> GetFullNames(List<Student> students)
+
+Input: [{ "Ali", "Karimov"}, { "Sami", "Sattorov"}]
+Output: ["Ali Karimov", "Sami Sattorov"]
+✅ 7.Average Score
+
+Funksiya nomi: AverageScore
+Vazifa: Ballar ro‘yxatidan o‘rtacha qiymatni hisoblang.
+
+public double AverageScore(List<int> scores)
+
+Input: [80, 90, 100]
+Output: 90.0
+✅ 8.Find Duplicated Words
+
+Funksiya nomi: FindDuplicates
+Vazifa: Ro‘yxatda bir necha marta uchragan so‘zlarni toping.
+
+public List<string> FindDuplicates(List<string> words)
+
+Input: ["a", "b", "a", "c", "b"]
+Output: ["a", "b"]
+✅ 9.Check If All Adults
+
+Funksiya nomi: AreAllAdults
+Vazifa: Barcha odamlarning yoshi 18 dan katta yoki tengligini tekshiring.
+
+public bool AreAllAdults(List<Person> people)
+
+Input: [17, 20, 21]
+Output: false
+✅ 10.Count Even Numbers
+
+Funksiya nomi: CountEvens
+Vazifa: Berilgan sonlar ro‘yxatidan juft sonlar sonini hisoblang.
+
+public int CountEvens(List<int> numbers)
+
+Input: [1, 2, 4, 5, 6]
+Output: 3
