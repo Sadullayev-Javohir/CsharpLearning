@@ -1,0 +1,9 @@
+Dastur boshlandi: 6/18/2025 7:21:05 PM
+Xatolik yuz berdi: Attempted to divide by zero.
+Dastur tugadi: 6/18/2025 7:21:05 PM
+Dastur boshlandi: 6/18/2025 7:21:56 PM
+Xatolik yuz berdi: Attempted to divide by zero.
+Dastur tugadi: 6/18/2025 7:21:56 PM
+Dastur boshlandi: 6/18/2025 7:22:22 PM
+Xatolik yuz berdi: Attempted to divide by zero.
+Dastur tugadi: 6/18/2025 7:22:22 PM
