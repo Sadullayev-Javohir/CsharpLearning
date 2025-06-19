@@ -1,0 +1,15 @@
+/home/kali/Desktop/MICROSOFT/PRACTISE/CsharpLearning/63_kun/bin/Debug/net8.0/63_kun
+/home/kali/Desktop/MICROSOFT/PRACTISE/CsharpLearning/63_kun/bin/Debug/net8.0/63_kun.deps.json
+/home/kali/Desktop/MICROSOFT/PRACTISE/CsharpLearning/63_kun/bin/Debug/net8.0/63_kun.runtimeconfig.json
+/home/kali/Desktop/MICROSOFT/PRACTISE/CsharpLearning/63_kun/bin/Debug/net8.0/63_kun.dll
+/home/kali/Desktop/MICROSOFT/PRACTISE/CsharpLearning/63_kun/bin/Debug/net8.0/63_kun.pdb
+/home/kali/Desktop/MICROSOFT/PRACTISE/CsharpLearning/63_kun/obj/Debug/net8.0/63_kun.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Desktop/MICROSOFT/PRACTISE/CsharpLearning/63_kun/obj/Debug/net8.0/63_kun.AssemblyInfoInputs.cache
+/home/kali/Desktop/MICROSOFT/PRACTISE/CsharpLearning/63_kun/obj/Debug/net8.0/63_kun.AssemblyInfo.cs
+/home/kali/Desktop/MICROSOFT/PRACTISE/CsharpLearning/63_kun/obj/Debug/net8.0/63_kun.csproj.CoreCompileInputs.cache
+/home/kali/Desktop/MICROSOFT/PRACTISE/CsharpLearning/63_kun/obj/Debug/net8.0/63_kun.sourcelink.json
+/home/kali/Desktop/MICROSOFT/PRACTISE/CsharpLearning/63_kun/obj/Debug/net8.0/63_kun.dll
+/home/kali/Desktop/MICROSOFT/PRACTISE/CsharpLearning/63_kun/obj/Debug/net8.0/refint/63_kun.dll
+/home/kali/Desktop/MICROSOFT/PRACTISE/CsharpLearning/63_kun/obj/Debug/net8.0/63_kun.pdb
+/home/kali/Desktop/MICROSOFT/PRACTISE/CsharpLearning/63_kun/obj/Debug/net8.0/63_kun.genruntimeconfig.cache
+/home/kali/Desktop/MICROSOFT/PRACTISE/CsharpLearning/63_kun/obj/Debug/net8.0/ref/63_kun.dll
