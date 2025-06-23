@@ -215,3 +215,43 @@
 //     }
 //   }
 // }
+
+// class Program
+// {
+//   static void Main()
+//   {
+//     LinkedList<int> sonlar = new LinkedList<int>();
+//     sonlar.AddLast(10);
+//     sonlar.AddLast(20);
+//     // sonlar.Insert(1, 15);
+//     sonlar.AddAfter(sonlar.First, 15);
+//     foreach (var i in sonlar)
+//     {
+//       Console.WriteLine(i);
+//     }
+//   }
+// }
+
+
+// class Program
+// {
+//   static void Main()
+//   {
+//     List<string> list1 = new List<string> { "nok", "olma", "anor", "behi" };
+//     LinkedList<string> list2 = new LinkedList<string>(new[] { "olma", "anor", "behi" });
+
+//     var umumiy = list1.Intersect(list2).ToList();
+//     Console.WriteLine("Umumiy elemenetlar");
+//     umumiy.ForEach(Console.WriteLine);
+
+//     var faqat1 = list1.Except(list2).ToList();
+//     Console.WriteLine("Faqat 1-ro'yxatda borlar");
+//     faqat1.ForEach(Console.WriteLine);
+
+//     var birlashgan = list1.Union(list2).ToList();
+//     Console.WriteLine("Birlashgan ro'yxat");
+//     birlashgan.ForEach(Console.WriteLine);
+//   }
+// }
+
+
