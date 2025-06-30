@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Talabalar>
+  <Talaba ID="1">
+    <Ism>Ali</Ism>
+    <Yosh>Vali</Yosh>
+  </Talaba>
+  <Talaba ID="2">
+    <Ism>Vali</Ism>
+    <Yosh>26</Yosh>
+  </Talaba>
+</Talabalar>
