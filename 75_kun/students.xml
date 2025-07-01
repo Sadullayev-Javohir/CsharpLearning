@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Talabalar>
+  <Talaba ID="1">
+    <Ism>Ali</Ism>
+    <Familya>Karimov</Familya>
+    <Kurs>1</Kurs>
+    <Reyting>87</Reyting>
+  </Talaba>
+  <Talaba ID="2">
+    <Ism>Dilnoza</Ism>
+    <Familya>Saidova</Familya>
+    <Kurs>2</Kurs>
+    <Reyting>93</Reyting>
+  </Talaba>
+</Talabalar>
